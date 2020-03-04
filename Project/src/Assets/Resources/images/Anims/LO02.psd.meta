@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 31fbba980101b024badca4d1ea68fd6f
+timeCreated: 1517061526
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LO02_0
+    21300002: LO02_1
+    21300004: LO02_2
+    21300006: LO02_3
+    21300008: LO02_4
+    21300010: LO02_5
+    21300012: LO02_6
+    21300014: LO02_7
+    21300016: LO02_8
+    21300018: LO02_9
+    21300020: LO02_10
+    21300022: LO02_11
+    21300024: LO02_12
+    21300026: LO02_13
+    21300028: LO02_14
+    21300030: LO02_15
+    21300032: LO02_16
+    21300034: LO02_17
+    21300036: LO02_18
+    21300038: LO02_19
+    21300040: LO02_20
+    21300042: LO02_21
+    21300044: LO02_22
+    21300046: LO02_23
+    21300048: LO02_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LO02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_3
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_4
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_5
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_6
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_7
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_8
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_9
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1579
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_14
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_15
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_16
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_17
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_18
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_19
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1110
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_21
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 641
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_22
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 641
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_23
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 641
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LO02_24
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 641
+        width: 373
+        height: 469
+      alignment: 9
+      pivot: {x: 0.391, y: 0.015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
